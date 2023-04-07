@@ -57,6 +57,15 @@ body{
 }
 
 /* STICKY-FOOTER */
+
+h1 {
+    color: red;
+}
+
+p {
+    color:blue;
+}
+
 .site-main{
     flex-grow: 1;
 }
